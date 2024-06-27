@@ -2,13 +2,13 @@
 
 I'm Mady - a trainee clinical scientist in Bioinformatics (Genomics).
 
-## About Me
+### About Me
 
 - 🌍 I'm based in: Manchester, UK.
 - 🔭 I’m currently working on: improving workflows and pipelines for the analyisis of genomic data.
 - 🌱 I’m currently learning: web development and database management. 
 
-## 🛠️ Technologies & Tools
+### Technologies & Tools
 
 - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
