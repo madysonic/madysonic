@@ -20,6 +20,6 @@ I'm Mady - a trainee clinical scientist in Bioinformatics (Genomics).
  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
+### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madysonic&layout=compact&theme=radical)
 
